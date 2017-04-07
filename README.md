@@ -3,9 +3,11 @@
 
 [![NPM](https://nodei.co/npm/grunt-contrib-sass.png?downloads=true)](https://www.npmjs.com/package/grunt-contrib-sass)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-contrib-sass/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-grunt-contrib-sass_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-contrib-sass/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-contrib-sass/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-grunt-contrib-sass%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-contrib-sass/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-grunt-contrib-sass/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-grunt-contrib-sass/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-grunt-contrib-sass/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 

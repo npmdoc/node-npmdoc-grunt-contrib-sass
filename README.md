@@ -1,9 +1,14 @@
-# api documentation for  [grunt-contrib-sass (v1.0.0)](https://github.com/gruntjs/grunt-contrib-sass#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-contrib-sass.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-contrib-sass) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-contrib-sass.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-contrib-sass)
+# npmdoc-grunt-contrib-sass
+
+#### api documentation for  [grunt-contrib-sass (v1.0.0)](https://github.com/gruntjs/grunt-contrib-sass#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-contrib-sass.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-contrib-sass) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-contrib-sass.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-contrib-sass)
+
 #### Compile Sass to CSS
 
-[![NPM](https://nodei.co/npm/grunt-contrib-sass.png?downloads=true)](https://www.npmjs.com/package/grunt-contrib-sass)
+[![NPM](https://nodei.co/npm/grunt-contrib-sass.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-contrib-sass)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-contrib-sass/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-grunt-contrib-sass%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-contrib-sass/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-grunt-contrib-sass/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-contrib-sass/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-contrib-sass/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-contrib-sass/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-grunt-contrib-sass/build/screenCapture.npmPackageListing.svg)
 
@@ -74,28 +79,22 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "cowboy",
-            "email": "cowboy@rj3.net"
+            "name": "cowboy"
         },
         {
-            "name": "jmeas",
-            "email": "jellyes2@gmail.com"
+            "name": "jmeas"
         },
         {
-            "name": "shama",
-            "email": "kyle@dontkry.com"
+            "name": "shama"
         },
         {
-            "name": "sindresorhus",
-            "email": "sindresorhus@gmail.com"
+            "name": "sindresorhus"
         },
         {
-            "name": "tkellen",
-            "email": "tyler@sleekcode.net"
+            "name": "tkellen"
         },
         {
-            "name": "vladikoff",
-            "email": "vlad@vladikoff.com"
+            "name": "vladikoff"
         }
     ],
     "name": "grunt-contrib-sass",
@@ -103,7 +102,6 @@
     "peerDependencies": {
         "grunt": ">=0.4.0"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/gruntjs/grunt-contrib-sass.git"
@@ -114,16 +112,6 @@
     "version": "1.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module grunt-contrib-sass](#apidoc.module.grunt-contrib-sass)
-
-
-
-# <a name="apidoc.module.grunt-contrib-sass"></a>[module grunt-contrib-sass](#apidoc.module.grunt-contrib-sass)
 
 
 

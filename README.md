@@ -1,6 +1,6 @@
 # npmdoc-grunt-contrib-sass
 
-#### api documentation for  [grunt-contrib-sass (v1.0.0)](https://github.com/gruntjs/grunt-contrib-sass#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-contrib-sass.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-contrib-sass) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-contrib-sass.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-contrib-sass)
+#### basic api documentation for  [grunt-contrib-sass (v1.0.0)](https://github.com/gruntjs/grunt-contrib-sass#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-contrib-sass.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-contrib-sass) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-contrib-sass.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-contrib-sass)
 
 #### Compile Sass to CSS
 
@@ -109,7 +109,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
